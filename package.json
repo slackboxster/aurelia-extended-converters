@@ -1,6 +1,6 @@
 {
   "name": "aurelia-basic-converters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A set of basic converters that should be generic enough to work with any aurelia app.",
   "main": "index.js",
   "scripts": {
