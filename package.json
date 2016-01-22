@@ -1,23 +1,21 @@
 {
-  "name": "aurelia-skeleton-plugin",
-  "version": "0.3.0",
-  "description": "A starter kit for building an Aurelia plugin.",
-  "keywords": [
-    "aurelia",
-    "plugin",
-    "skeleton"
-  ],
-  "homepage": "http://aurelia.io",
-  "bugs": {
-    "url": "https://github.com/aurelia/skeleton-plugin/issues"
+  "name": "aurelia-basic-converters",
+  "version": "0.0.6",
+  "description": "A set of basic converters that should be generic enough to work with any aurelia app. Based on the aurelia plugin skeleton package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "CC0-1.0",
-  "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
-  "main": "dist/commonjs/index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/skeleton-plugin"
+    "url": "https://github.com/slackboxster/aurelia-basic-converters.git"
   },
+  "author": "Ryan Heathcote <ryan.m.heathcote@gmail.com> (http://ryanheathcote.com)",
+  "license": "GPL2",
+  "bugs": {
+    "url": "https://github.com/slackboxster/aurelia-basic-converters/issues"
+  },
+  "homepage": "https://github.com/slackboxster/aurelia-basic-converters",
   "devDependencies": {
     "aurelia-tools": "^0.1.3",
     "conventional-changelog": "0.0.11",
