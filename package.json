@@ -1,6 +1,6 @@
 {
   "name": "aurelia-basic-converters",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A set of basic converters that should be generic enough to work with any aurelia app. Based on the aurelia plugin skeleton package",
   "main": "index.js",
   "scripts": {
